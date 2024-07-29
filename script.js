@@ -1,5 +1,8 @@
 document.addEventListener("DOMContentLoaded", function () {
+  // CHANGE YOUR DATE AT HERE. MAKE SURE TO FILL IN THE RIGHT FORMAT DATE
   const BEGIN_DATE = "2024-07-29";
+
+  /* DO NOT CHANGE ANY CODE BELOW THIS OTHERWISE THE CODE WILL NOT WORK */
   const beginDate = new Date(BEGIN_DATE);
   const daysElement = document.querySelector("#days");
   const hoursElement = document.querySelector("#hours");
