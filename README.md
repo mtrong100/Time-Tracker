@@ -2,9 +2,12 @@
 
 ---
 
-- First try (failed): from 29/7/2024 to 13/8/2024 (15 days)
-- Second try (failed after 1 day)
+# Start from 29/7/2024
+
+- First try (15 days)
+- Second try (1 day)
 - Third try (11 days)
+- Fourth try (7 days)
 
 ---
 
