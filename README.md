@@ -15,6 +15,7 @@
 - Nine try (1 day)
 - Ten try (1 day)
 - 11 try (7 days)
+- 12 try (6 days)
 
 ---
 
