@@ -21,6 +21,7 @@
 - 15 try (1 day)
 - 16 try (double failed in 1 day)
 - 17 try (3 days)
+- 18 ttry (4 days)
 
 ---
 
