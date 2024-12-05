@@ -26,6 +26,7 @@
 - 20 try (2 days)
 - 21 try (5 days)
 - 22 try (5 days)
+- 23 try (1 day - NUT double time)
 
 ---
 
