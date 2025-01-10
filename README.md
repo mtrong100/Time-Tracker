@@ -32,6 +32,7 @@
 - 26 try ( 8 days)
 - 27 try ( 1 day)
 - 28 try (8 days)
+- 29 try (5 days)
 
 ---
 
