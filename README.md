@@ -35,6 +35,7 @@
 - 29 try (5 days)
 - 30 try (1 day)
 - 31 try (7 days - NUT double time)
+- 32 try (1 week)
 
 ---
 
