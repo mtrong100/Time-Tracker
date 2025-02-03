@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function () {
   // CHANGE YOUR DATE AT HERE. MAKE SURE TO FILL IN THE RIGHT FORMAT DATE
-  const BEGIN_DATE = "2025-02-03";
+  const BEGIN_DATE = "2025-02-04";
 
   /* DO NOT CHANGE ANY CODE BELOW THIS OTHERWISE THE CODE WILL NOT WORK */
   const beginDate = new Date(BEGIN_DATE);
