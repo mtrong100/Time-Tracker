@@ -38,6 +38,7 @@
 - 32 try (1 week)
 - 33 try (1 week)
 - 34 try (1 day)
+- 35 try (1 day)
 
 ---
 
