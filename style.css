@@ -27,12 +27,26 @@ body {
 }
 
 .time-boxes {
-  display: flex;
-  justify-content: center;
+  display: grid;
   gap: 10px;
-  flex-wrap: wrap;
+  justify-content: center;
 }
 
+/* Mobile: 2 columns */
+@media (max-width: 767px) {
+  .time-boxes {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* Tablet: 4 columns */
+@media (min-width: 768px) {
+  .time-boxes {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+/* Time Box Styles */
 .time-box {
   display: flex;
   flex-direction: column;
@@ -59,10 +73,11 @@ body {
   line-height: 1.25;
 }
 
-@media (min-width: 320px) {
+/* Small Screens */
+@media (max-width: 767px) {
   .time-box {
-    width: 70px;
-    height: 70px;
+    width: 100px;
+    height: 100px;
   }
 
   .time-value {
@@ -78,6 +93,7 @@ body {
   }
 }
 
+/* Medium Screens */
 @media (min-width: 768px) {
   .time-box {
     width: 150px;
@@ -97,6 +113,7 @@ body {
   }
 }
 
+/* Large Screens */
 @media (min-width: 1024px) {
   .time-box {
     width: 200px;
